@@ -1,0 +1,7 @@
+{
+  "name": "N Vibe",
+  "description": "An AI-powered coding platform that generates full-stack web applications from a simple prompt, complete with a live preview and code management tools.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
